@@ -1,3 +1,29 @@
+# cline
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+可作为 SDK、IDE 扩展或 CLI 助手的自主编码 Agent。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="assets/icons/icon.png" width="80" alt="Cline" />
 </p>
